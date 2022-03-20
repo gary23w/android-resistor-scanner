@@ -2,7 +2,7 @@
 
 OPENCV based resistor scanner(kotlin)
 
-Based off
+Inspired by:
 [theGouger](https://github.com/thegouger/ResistorScanner)
 
 ## Screenshot
